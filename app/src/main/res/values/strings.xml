@@ -1,0 +1,231 @@
+<resources>
+    <string name="app_name">Food Catalogue</string>
+    <string name="food_info">Food Info</string>
+    <string name="name_foods">Food Name</string>
+    <string name="food_list">Food List</string>
+    <string name="recipe">Recipe</string>
+
+    <string-array name="data_name">
+        <item>Alfajores, South America</item>
+        <item>Apfelstrudel, Austria</item>
+        <item>Baklava, Turkey</item>
+        <item>Black Forest Cake, Germany</item>
+        <item>Borma, Middle East and Turkey</item>
+        <item>Brownies, United States</item>
+        <item>Cannoli, Sicily</item>
+        <item>Cardamom Buns, Sweden</item>
+        <item>Chocolate Chip Cookies, United States</item>
+        <item>Chocolate Mousse, France</item>
+        <item>Coconut Cake, Southern United States</item>
+        <item>Cornes de Gazelle, Morocco</item>
+        <item>Crème Brûlée, France</item>
+        <item>Dan Tats, Hong Kong</item>
+        <item>Knafeh, Levant</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Step into a neighborhood bakery from Argentina to Peru, and you\'re likely to find these tender,
+            filled cookies piled high behind the counter. The crumbly bite of shortbread gives way to a sweet
+            layer of dulce de leche, a caramel-like candy made by gently cooking sweetened milk until it turns
+            into a rich, mellow treat.</item>
+        <item>For a floury lesson in gluten\'s architectural wonders, whip up a batch of traditional strudel dough.
+            The real thing is stretched not rolled into an improbably thin sheet; according to legend, it should be
+            transparent enough to read a newspaper through.</item>
+        <item>Dozens of delicate layers melt into a single tender bite in this syrupy confection, which is among the
+            sweetest legacies of the Ottoman Empire. While it remains a sought-after treat through the Levant, Balkans,
+            the Caucasus and North Africa regions that were once ruled from Constantinople the spiritual home of baklava
+            is surely the modern-day country of Turkey. </item>
+        <item>Along with fairy tales and mountain-top castles, Germany\'s Black Forest region is known as the namesake if
+            not the origin of the country\'s most luscious cake. Dark rounds of chocolate cake are doused in a cherry
+            syrup spiked with kirschwasser, a sour cherry brandy, then stacked atop a thin, chocolate base with deep
+            layers of whipped cream and fresh cherries. </item>
+        <item>Threads of crisp, golden knafeh dough wrap around a rich nut filling in this sweet dessert, which is an
+            elegant and aromatic relative of baklava. Unlike baklava, borma is often fried, adding an extra infusion of
+            flavor and a crisp texture that stands up to a sugary bath in flavored syrup. </item>
+        <item>Fudgy or cakey? Corner piece or slice from the middle? Aficionados of this beloved American sweet are sure
+            to have a take on the best and worst way to make a brownie. One of the earliest recipes appeared in Fannie Farmer\'s
+            1906 "Boston Cooking School Cook Book," using the unsweetened chocolate that lends brownies a fudgy texture.</item>
+        <item>A shattering-crisp shell gives way to a creamy cheese filling in this Sicilian classic, whose roots reach deep into
+            the island\'s diverse culinary history. With origins at the wild Carnival celebrations at Palermo, the traditional
+            cannolo is filled with silky-smooth ricotta cheese made from sheep\'s milk. </item>
+        <item>October 4 might be Cinnamon Bun Day on the Swedish calendar, but many bun aficionados insist that the aromatic
+            cardamom version outshines cinnamon\'s more assertive charms. One of a family of vetebullar, or wheat buns, cardamom
+            buns are best enjoyed as a part of fika, the coffee break that comes twice daily in many Swedish workplaces.</item>
+        <item>The quintessential American treat is deceptively simple: a basic, creamed-butter cookie recipe turns out to have
+            endless subtle variations that produc dramatically different results. Whatever your favorite version, a perfect chocolate
+            chip cookie is a delicate balance of textures and flavors. A crispy rim gives way to a tender, melting center, and
+            the buttery sweetness of the dough sets off the slight edge of bittersweet chocolate and brown sugar.
+        </item>
+        <item>An airy confection made with just a handful of ingredients, chocolate mousse is a delicious paradox: the richer
+            it is, the lighter it seems. Gallic chefs have been whipping up chocolate mousse the word means "foam" in French
+            for at least a few hundred years, but the quest for foamy chocolate is much older.</item>
+        <item>Bouncy, buttery rounds of vanilla cake are piled high with shredded coconut and seven-minute frosting for a classic
+            Southern dessert. This is the kind of all-American sweet that stars at potlucks, cake walks and church picnics, and it\'s
+            often made with recipes passed down on hand-written recipe cards.</item>
+        <item>Even in a crowded field of tempting Moroccan sweets, these filled pastries are perennial favorites, and the
+            labor-intensive dessert appears at celebrations and special meals throughout the year. </item>
+        <item>Shiny, burnt sugar tops this creamy dessert, and the perfect crème brûlée is a study in contrasts. Each bite
+            should blend a bit of crispy caramel burned just to the very edge of bitterness with the aromatic flavor of vanilla custard. </item>
+        <item>Follow the wafting scent of egg custard into a Hong Kong bakery to sample one of the territory\'s most iconic
+            treats. Perfectly sized for eating out-of-hand, dan tats are best enjoyed fresh from the oven, when the warm
+            custard meets a perfectly crisp crust. And with a map-spanning backstory, dan tats are among the tastiest symbols of globalization. </item>
+        <item>Golden pastry tops sweet cream, nuts or salty cheese in this syrupy dessert, which offers a satisfying contrast
+            of texture and flavor. Like many Middle Eastern desserts, knafeh is soaked in an aromatic sugar syrup that infuses
+            the pastry topping and filling with the flavor of roses or orange blossoms.</item>
+
+
+    </string-array>
+
+    <array name="dat_photo">
+        <item>@drawable/alfajores</item>
+        <item>@drawable/apfelstrudel</item>
+        <item>@drawable/baklava</item>
+        <item>@drawable/black_forest_cake</item>
+        <item>@drawable/borma</item>
+        <item>@drawable/brownies</item>
+        <item>@drawable/cannoli</item>
+        <item>@drawable/cardamombuns</item>
+        <item>@drawable/chocolate_chip_cookies</item>
+        <item>@drawable/chocolate_mousse</item>
+        <item>@drawable/coconut_cake</item>
+        <item>@drawable/cornes_de_gazelle</item>
+        <item>@drawable/creme_brulee</item>
+        <item>@drawable/dan_tats</item>
+        <item>@drawable/knafeh</item>
+
+    </array>
+
+    <string-array name="data_cast">
+        <item>1 cup cornstarch
+    \n3/4 cup all-purpose flour, plus more as needed
+    \n1 teaspoon baking powder
+    \n1/2 teaspoon baking soda
+    \n1/4 teaspoon fine salt
+    \n8 tablespoons unsalted butter (1 stick), at room temperature
+    \n1/3 cup granulated sugar
+    \n2 large egg yolks
+    \n1 tablespoon pisco or brandy
+    \n1/2 teaspoon vanilla extract
+    \n1 cup dulce de leche, at room temperature
+    \nPowdered sugar, for dusting
+</item>
+        <item>1 Granny Smith apple - peeled, cored and coarsely shredded
+    \n3 Granny Smith apples - peeled, cored and sliced
+    \n1 cup brown sugar
+    \n1 cup golden raisins
+    \n1 sheet frozen puff pastry, thawed
+    \n1 egg
+    \n1/4 cup milk
+</item>
+        <item>1 pound chopped nuts
+    \n1 teaspoon ground cinnamon
+    \n1 (16 ounce) package phyllo dough
+    \n1 cup butter, melted
+    \n1 cup white sugar
+    \n1 cup water
+    \n1/2 cup honey
+    \n1 teaspoon vanilla extract
+    \n1 teaspoon grated lemon zest
+</item>
+        <item>1 cup milk
+    \n1 tablespoon vinegar
+    \n1 3/4 cups all-purpose flour
+    \n2 cups white sugar
+    \n3/4 cup unsweetened cocoa powder
+    \n1 teaspoon baking powder
+    \n2 teaspoons baking soda
+    \n1/2 teaspoon salt
+    \n2 eggs
+    \n1/2 cup vegetable oil
+    \n1 cup strong brewed coffee, cold
+    \n1 teaspoon vanilla extract
+    \n1 (21 ounce) can cherry pie filling
+    \n1/2 cup cherry liqueur
+    </item>
+        <item>1lb Kataifi dough
+    \n1 cup ghee or butter, melted
+    \n1/2 cup hazelnuts, toasted
+    \n1 cup syrup</item>
+        <item>1/2 cup + 2 tablespoons salted butter melted
+    \n1 cup granulated sugar
+    \n2 large eggs
+    \n2 teaspoons vanilla extract
+    \n1/2 cup melted milk chocolate chips
+    \n3/4 cup all-purpose flour
+    \n1/4 cup unsweetened cocoa powder
+    \n1/2 teaspoon salt
+    \n1 cup milk chocolate chips</item>
+        <item>2 cups all-purpose flour
+    \n1 tablespoon granulated sugar
+    \n1/4 teaspoon kosher salt
+    \n1 tablespoon plus 2 teaspoons unsalted butter, cut into small pieces
+    \n1 egg yolk
+    \n1/2 cup dry white wine</item>
+        <item>1 and 1/4 cup warm water 105-110 F
+    \n3/4 stick unsalted butter melted and cooled slightly
+    \n6 tbsp sugar
+    \n4 and 1/2 tsp active dry yeast
+    \n3 large eggs beaten lightly
+    \n1 and 1/2 tsp salt
+    \n1/4 cup powdered milk
+    \n5-6 cups all purpose flour
+
+</item>
+        <item>1 cup salted butter* softened.
+    \n1 cup white (granulated) sugar.
+    \n1 cup light brown sugar packed.
+    \n2 tsp pure vanilla extract.
+    \n2 large eggs.
+    \n3 cups all-purpose flour.
+    \n1 tsp baking soda.
+    \n1/2 tsp baking powder.</item>
+        <item>5 1/4 ounces bittersweet chocolate, coarsely chopped
+    \n14 ounces cold heavy cream
+    \n3 large egg whites
+    \n1-ounce sugar
+    \nSweetened whipped cream, for garnish, optional
+    \nShaved bittersweet chocolate, for garnish, optional
+</item>
+        <item>1/2 cup salted butter softened.
+    \n1/2 cup vegetable oil.
+    \n1½ cups sugar.
+    \n2 teaspoons coconut extract.
+    \n6 large egg whites room temperature.
+    \n1 1/2 cups coconut milk.
+    \n1/4 cup sour cream.
+    \n3½ cups cake flour.</item>
+        <item>1 1/2 cups of flour.
+    \n1/3 cup butter, melted.
+    \n1/4 cup orange blossom water.
+    \n1/4 cup water.
+    \nzest of half a lemon.
+    \n2 cups almond flour or finely ground almonds.
+    \n1/2 cup + 2 tbsp powdered sugar.
+    \nzest of half a lemon.</item>
+        <item>    10 large egg yolks (room temperature)
+    \n1/2 cup sugar.
+    \n2 1/2 cups whipping cream (room temperature)
+    \n1 tbsp pure vanilla extract.
+    \n1/4 cup sugar for caramelizing tops after cooking.</item>
+        <item>1 1/2 cups all purpose flour
+    \n1/8 tsp kosher salt
+    \n1/2 cup + 1 T granulated sugar
+    \n14 T unsalted butter room temperature but not softened
+    \n3 eggs room temperature
+    \n1/2 cup evaporated milk room temperature
+    \n3/4 tsp vanilla extract
+
+</item>
+        <item>4 cups (1 kg) Redpath Granulated Sugar
+    \n2 cups (500 ml) water
+    \n1 tsp (5 ml) lemon juice
+    \n1/2 kg shredded phyllo dough*
+    \n1 kg mozzarella cheese, grated
+    \n1 1/2 cup (284 g) butter, melted
+    \norange food colouring, powdered or liquid (optional)
+    \n3/4 cup (100 g) crushed pistachios
+
+</item>
+
+    </string-array>
+</resources>
